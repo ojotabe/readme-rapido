@@ -4,9 +4,9 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.121.0-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.0-blue)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue)
-![Arquitetura Limpa](https://img.shields.io/badge/Architecture-Clean-orange)
 
-Uma API RESTful robusta construída com **FastAPI** para gerenciar, consultar e analisar dados de livros. Este projeto é uma solução de um Tech Challenge que integra web scraping (ETL), migrações de banco de dados e análises estatísticas de coleções de livros em um serviço único e coeso.
+
+Uma API construída com **FastAPI** para gerenciar, consultar e analisar dados de livros. Este projeto é uma solução de um Tech Challenge que integra web scraping (ETL), migrações de banco de dados e análises estatísticas de coleções de livros em um serviço único e coeso.
 
 ---
 
